@@ -1,4 +1,3 @@
-//parameters
 parameters:
   buildConfiguration: 'Release'
 
